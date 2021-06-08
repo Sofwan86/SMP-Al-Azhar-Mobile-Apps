@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042805753125",
+    "firebase_url": "https://al-azhar-mob-default-rtdb.firebaseio.com",
+    "project_id": "al-azhar-mob",
+    "storage_bucket": "al-azhar-mob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042805753125:android:13c993bced078d9f1606cc",
+        "android_client_info": {
+          "package_name": "com.smpalazhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042805753125-l1d4rrp31v264gm2au1a0si64mha3bcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLGDDODB1xtXytRDTGUWvgxi5vC2BW54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042805753125-l1d4rrp31v264gm2au1a0si64mha3bcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
